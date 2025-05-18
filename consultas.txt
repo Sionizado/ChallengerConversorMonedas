@@ -1,1 +1,5 @@
-17-05-2025 17:57:54---ARS 100.0son equivalentes a USD 0.087247
+18-05-2025 06:18:47.......ARS 100.0 son equivalentes a EUR 0.078111
+18-05-2025 06:19:06.......ARS 150.0 son equivalentes a JPY 19.065
+18-05-2025 06:19:14.......USD 25.0 son equivalentes a ARS 28654.25
+18-05-2025 06:19:36.......EUR 60.0 son equivalentes a ARS 76813.32
+18-05-2025 06:19:44.......JPY 100.0 son equivalentes a ARS 786.83

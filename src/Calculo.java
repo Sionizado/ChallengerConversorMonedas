@@ -34,7 +34,7 @@ public class Calculo {
 
     public String mensajeDeRespuesta(){
         String mensaje = getMonedaBase().toUpperCase() + " " + getMonto() +
-                "son equivalentes a " + getMonedaDestino().toUpperCase() + " "
+                " son equivalentes a " + getMonedaDestino().toUpperCase() + " "
                 + consultas.Conversion(getMonedaBase(), getMonedaDestino(),getMonto());
         System.out.println(mensaje);
         return mensaje;
